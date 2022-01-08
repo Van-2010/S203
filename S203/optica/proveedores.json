@@ -1,0 +1,16 @@
+[{
+  "_id": 1,
+  "nombre": "Isabel",
+  "telefono": 932187488,
+  "fax": 932187488,
+  "nif": "44444444A",
+  "direccion": {
+    "calle": "provenza",
+    "numero": 123,
+    "piso": 2,
+    "puerta": "b",
+    "cp": 8005,
+    "ciudad": "barcelona",
+    "pais": "espanya"
+  }
+}]

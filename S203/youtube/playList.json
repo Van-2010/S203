@@ -1,0 +1,10 @@
+[{
+  "_id": 1,
+  "nom": "pelis infantils",
+  "data_creacio": "2001-11-21 10:45",
+  "estat": "publica",
+  "videos": [
+    1,
+    2
+  ]
+}]

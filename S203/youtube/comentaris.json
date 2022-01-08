@@ -1,0 +1,13 @@
+[{
+  "_id": 1,
+  "text": "molt bona calitat",
+  "data_hora": "2001-11-21 10:45",
+  "likes": [
+    1,
+    2
+  ],
+  "dislikes": [
+    1,
+    2
+  ]
+}]

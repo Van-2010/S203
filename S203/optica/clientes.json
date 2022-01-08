@@ -1,0 +1,18 @@
+[{
+  "_id": 1,
+  "nombre": "Juan",
+  "cp": 8005,
+  "tel": 931255555,
+  "email": "juan@Gmail.com",
+  "fecha_reg": "2021-03-05",
+  "compras": [
+    {
+      "vendedr": "Jorge",
+      "gafas_id": 1
+    },
+    {
+      "vendedr": "Josep",
+      "gafas_id": 2
+    }
+  ]
+}]

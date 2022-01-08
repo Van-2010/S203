@@ -1,0 +1,11 @@
+[{
+  "_id": 1,
+  "canciones": [
+    1,
+    2
+  ],
+  "artista": "buhos",
+  "titol": "la gran vida",
+  "any_publicacio": 2007,
+  "imatge": "/imagenbuhos.png"
+}]

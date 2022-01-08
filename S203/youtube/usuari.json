@@ -1,0 +1,15 @@
+[{
+  "_id": 1,
+  "email": "juan@Gmail.com",
+  "nom_usuari": "Isabel",
+  "data_neixament": "1977_11_23",
+  "sexe": "D",
+  "pais": "espanya",
+  "cp": 8005,
+  "canal_creat": 1,
+  "canal_subscrit": [
+    1,
+    2
+  ],
+  "playList": 1
+}]

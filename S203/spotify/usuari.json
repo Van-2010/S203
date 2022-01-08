@@ -1,0 +1,19 @@
+[{
+  "_id": 1,
+  "tipo_usuari": "premium",
+  "email": "juan@Gmail.com",
+  "password": "1234",
+  "nom_usuari": "Isabel",
+  "data_neixament": "1977-11-23",
+  "sexe": "D",
+  "pais": "espanya",
+  "cp": 8005,
+  "playlist": 1,
+  "llista_albums": [
+    1,
+    2
+  ],
+  "llista_canciones": [
+    1
+  ]
+}]

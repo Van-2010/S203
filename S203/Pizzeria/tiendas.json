@@ -1,0 +1,23 @@
+[{
+  "_id": 1,
+  "direccion": "calle provenza 112",
+  "cp": 8005,
+  "localidad": "barcelona",
+  "provincia": "barcelona",
+  "empleados": [
+    {
+      "nombre": "Josep",
+      "apellido": "Sanchez",
+      "nif": "44444444A",
+      "telefono": 932187488,
+      "trabajo": "cocinero"
+    },
+    {
+      "nombre": "Antonio",
+      "apellido": "Cuevas",
+      "nif": "44448888A",
+      "telefono": 931254545,
+      "trabajo": "repartidor"
+    }
+  ]
+}]

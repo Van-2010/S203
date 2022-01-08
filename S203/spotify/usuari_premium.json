@@ -1,0 +1,12 @@
+[{
+  "_id": 1,
+  "usuari_id": 1,
+  "subscripcions": [
+    1
+  ],
+  "credit": null,
+  "paypal": 1,
+  "pagaments": [
+    1
+  ]
+}]

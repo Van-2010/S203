@@ -1,0 +1,10 @@
+[{
+  "_id": 1,
+  "nombre": "Isabel",
+  "apellido": "Domenech",
+  "direccion": "calle provenza 123 2b",
+  "cp": 8005,
+  "localidad": "barcelona",
+  "provincia": "barcelona",
+  "telefono": 932187488
+}]

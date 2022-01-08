@@ -1,0 +1,16 @@
+[{
+  "_id": 1,
+  "playlist_id": 2,
+  "canciones": [
+    {
+      "cancion_id": 1,
+      "usuari_id": 1,
+      "data_eliminacio": "2001-11-21"
+    },
+    {
+      "cancion_id": 2,
+      "usuari_id": 1,
+      "data_creacio": "2001-11-21"
+    }
+  ]
+}]

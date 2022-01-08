@@ -1,0 +1,12 @@
+[{
+  "_id": 1,
+  "num_tarjeta": 123456,
+  "mes": 11,
+  "any": 2022,
+  "codi_seguretat": 123,
+  "subscripcions_id": 1,
+  "usuari_id": 1,
+  "pagaments": [
+    1
+  ]
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": 1,
+  "titol": "ace age",
+  "descripcio": "peli Ice Age",
+  "grandaria": 15,
+  "nom": "ace age",
+  "arxiu": "/aceAge.vga",
+  "thunbnail": "fjh",
+  "num_reproducciones": 3,
+  "likes": 2,
+  "dislikes": 0,
+  "estat": "public",
+  "etiquetes": [
+    1,
+    2
+  ],
+  "usuari_publica": 1,
+  "data_publicacio": "2001-11-21",
+  "comentaris": [
+    1
+  ]
+}]
